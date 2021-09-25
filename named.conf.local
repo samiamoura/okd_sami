@@ -1,4 +1,4 @@
-zone "okd.local" {
+zone "sokube.io" {
     type master;
     file "/etc/named/zones/db.sokube.io"; # zone file path
 };
